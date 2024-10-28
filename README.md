@@ -1,6 +1,11 @@
 # expo-router-demo1
 expo-router-demo1
 
+# Get started today with one line
+```
+npx create-expo-app@latest --template tabs@49
+```
+
 # app.json
 ```
 {
